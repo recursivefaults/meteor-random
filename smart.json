@@ -1,0 +1,8 @@
+{
+    "name": "secure-random",
+    "description": "Cryptographically strong random numbers for Meteor",
+    "homepage": "https://github.com/recursive.faults/meteor-random.git",
+    "author": "Ryan Latta",
+    "version": "1.0.0",
+    "git": "https://github.com/recursive.faults/meteor-random.git",
+}
